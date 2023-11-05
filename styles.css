@@ -249,4 +249,11 @@ body {
     display: none;
   }
 }
+
+footer {
+  font-size: 14px;
+  color: #939393;
+  text-align: right;
+  padding-right: 10px;
+}
 /*# sourceMappingURL=styles.css.map */
